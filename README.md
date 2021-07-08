@@ -1,7 +1,7 @@
 # Weather-App
 
-I have made wonderfull front-end project using React Js.It work on our live location.
-In this App I have used Weather API for detect our location such as latitude,longitude,city,country etc..
+I have made this wonderfull front-end project using React Js.It work on our live location.
+In this App I have used Weather API that can to help us to detect our location ( latitude,longitude,city,country etc..).
 
  API link :-https://openweathermap.org/api/one-call-api
  
